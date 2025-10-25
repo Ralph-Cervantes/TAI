@@ -1,4 +1,4 @@
-# TAI
+# Thoughtful AI
 
 ## Instructions 
 1) Create a virtual env
